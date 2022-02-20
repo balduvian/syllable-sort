@@ -1,0 +1,16 @@
+{
+  "name": "syllable-sort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "preact": "^10.6.6",
+    "ts-loader": "^9.2.6",
+    "ts-node": "^10.5.0"
+  }
+}
